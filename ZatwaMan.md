@@ -75,5 +75,4 @@ $ git push
   Následne znova nahodenie: zájsť do koreňa všetkých heritrixov a pustiť si skripta: ./start3.sh</pre>
 </ul>
 <ul>
-<li>Kym dobehne, ocheckovat git, ci seminka boli z dobehnutej sklizne comitnute, potom git staus - co sa v lokalnom zmenili.
-odpalit ist cd 2017, aby bola priama cesta k seeds a pak pridat vybrane subory.</li></ul>
+<li>Kým dobehne, ocheckovat git, či semienka boli z dobehnutej sklizne commitnute, potom git staus - čo sa v lokálnom zmenili. Odpáliť cestou: cd 2017, aby bola priama cesta k seeds a pak pridať vybrané súbory.</li></ul>
