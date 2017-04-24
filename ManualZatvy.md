@@ -10,6 +10,8 @@
 <br>
 <h2>3. Práca v terminály</h2>
 <br>
+<h3>Vlez dnuk ako uzivatel ne ROOT</h3>
+<br>
 <h3>1. nahoď si pracovné prostredie via</h3>
  <pre>screen -r </pre>
 <br>
